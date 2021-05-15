@@ -1,0 +1,1 @@
+Foi usado meus conhecimentos aprendidos sobre POO para projetar classes que construíram uma estrutura básica de uma biblioteca de vídeos.
