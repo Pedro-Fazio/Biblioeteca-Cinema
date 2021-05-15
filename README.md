@@ -1,5 +1,5 @@
 # Descrição do projeto
-Usando meus conhecimentos de POO, foi projetado classes que constroem uma estrutura básica de uma biblioteca de vídeos. Para isso, foram realizados as seguintes classes com suas funcionalidades específicas:
+Usando meus conhecimentos de POO, foi projetado classes que constroem uma estrutura básica de uma biblioteca de vídeos. Essa biblioteca armazena dados de filmes criados pelo usuário, tanto quanto outras informações de agentes do filme, lembrando que apenas os dados serão guardados para simular que há um filme guardado para ser reproduzido, não há arquivos em vídeo a serem reproduzidos no projeto. Para isso, foram realizados as seguintes classes com suas funcionalidades específicas:
 - Main
 - Director
 - Util
