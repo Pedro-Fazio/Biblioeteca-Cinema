@@ -1,12 +1,5 @@
 # Descrição do projeto
-Usando meus conhecimentos de POO, foi projetado classes que constroem uma estrutura básica de uma biblioteca de vídeos. Essa biblioteca armazena dados de filmes criados pelo usuário, tanto quanto outras informações de agentes do filme, lembrando que apenas os dados serão guardados para simular que há um filme guardado para ser reproduzido, não há arquivos em vídeo a serem reproduzidos no projeto. Para isso, foram realizados as seguintes classes com suas funcionalidades específicas:
-- Main
-- Director
-- Util
-- Video
-- Actor
-
-Com essa biblioetca o usuário poderá criar novos filmes e adiciona-los a biblioetca, contendo os seus atores e diretores do filme e suas informações próprias, também como verificar informações sobre os filmes criados.
+Usando meus conhecimentos de POO, foi projetado classes que constroem uma estrutura básica de uma biblioteca de vídeos. Essa biblioteca armazena dados de filmes criados pelo usuário, tanto quanto outras informações de agentes do filme, lembrando que este projeto simula um catálogo de filmes, então não haverá arquivos em vídeo para serem reproduzidos, apenas seus dados. Dito isso, com essa biblioetca o usuário poderá criar novos filmes e adiciona-los a biblioetca, contendo os seus atores e diretores do filme e suas informações próprias, também como verificar informações sobre os filmes criados.
 
 # Diagrama de Classe
 
@@ -26,17 +19,17 @@ As funcionalidades que o projeto possibilita ao usuário são contempladas pelos
 - Adicionar filmes com sua data de criação, classificação indicativa, gênero e duração
 - Simular que assistiu o filme e dar uma nota para o mesmo
 - Verificar informações sobre o filme:
-(1) Verificar informações sobre o(a) diretor(a) do filme
-(2) Verificar nome do filme
-(3) Verificar ID do filme
-(4) Verificar duração do filme
-(5) Verificar ano do filme
-(6) Verificar número de visualizações do filme
-(7) Verificar número de avaliações do filme
-(8) Verificar média das avaliações do filme
-(9) Verificar genero do filme
-(10) Verificar classificação indicativa do filme
-(11) Verificar informações sobre os atores
+* (1) Verificar informações sobre o(a) diretor(a) do filme
+* (2) Verificar nome do filme
+* (3) Verificar ID do filme
+* (4) Verificar duração do filme
+* (5) Verificar ano do filme
+* (6) Verificar número de visualizações do filme
+* (7) Verificar número de avaliações do filme
+* (8) Verificar média das avaliações do filme
+* (9) Verificar genero do filme
+* (10) Verificar classificação indicativa do filme
+* (11) Verificar informações sobre os atores
 
 # Utilização da biblioetca de vídeos
 
